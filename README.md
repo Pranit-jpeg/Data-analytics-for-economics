@@ -1,4 +1,4 @@
-# Data-analytics-for-economics
+# Applied Data Analytics in Economics
 Coursework from **ECON5200 – Applied Data Analytics in Economics** at Northeastern University.
   Projects span the full analytics pipeline — from data collection and EDA to regression,
   machine learning, causal inference, and structural demand estimation.
